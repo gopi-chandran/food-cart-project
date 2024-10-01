@@ -1,0 +1,186 @@
+[
+    {
+        "id": 89,
+        "name":" Farmers Pick Pizza",
+        "amt": 299,
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/89.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 124,
+        "name":"Paper Roast Dosa",
+        "amt": 65,
+        "shop": "Sri Saivihar",
+        "ftype": "Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/124.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 26,
+        "name":"Alfredo Pasta",
+        "amt": 185,
+        "shop": "Karthi Food",
+        "ftype": "Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/26.jpg",
+        "Latest": "Yes"
+    },
+    {
+        "id": 39,
+        "name":"Cotton candy scoop ",
+        "amt": 99,
+        "shop": "Cream & Fudge",
+        "ftype": "IceCream",
+        "pic": "https://www.app.tutorjoes.in/img/food/39.jpg",
+        "Latest": "Yes"
+    },
+    {
+        "id": 120,
+        "name":"Spicy Noodles",
+        "amt": 123,
+        "shop": "Chennai Soup",
+        "ftype": "Soup",
+        "pic": "https://www.app.tutorjoes.in/img/food/120.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 133,
+        "name":"Chicken Afghani",
+        "amt": 350,
+        "shop": "Suhail Tandoori Wala",
+        "ftype": "Non-Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/133.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 20,
+        "name":"Hyderabadi Chicken Dry",
+        "amt": 235,
+        "shop": "Naveen Food",
+        "ftype": "Non-Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/20.jpg",
+        "Latest": "No"
+    },
+    
+    {
+        "id": 9,
+        "name":" Chicken 65",
+        "amt": 220,
+        "shop": "Salem RR Briyani",
+        "ftype": "Non-Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/9.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 80,
+        "name":"Momo Pizza",
+        "amt": 299,
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/80.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 28,
+        "name":"Orange Juice",
+        "amt": 70,
+        "shop": "Vidhaya Juice Mall",
+        "ftype": "Juice",
+        "pic": "https://www.app.tutorjoes.in/img/food/28.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 67,
+        "name":"Milk Hawla",
+        "amt": 77,
+        "shop": "A2d",
+        "ftype": "Sweet",
+        "pic": "https://www.app.tutorjoes.in/img/food/67.jpg",
+        "Latest": "No"
+    },
+    
+    {
+        "id": 130,
+        "name":"Veg Seekh kebab",
+        "amt": 230,
+        "shop": " Arun Tandoori Wala",
+        "ftype": "Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/130.jpg",
+        "Latest": "Yes"
+    },
+    {
+        "id": 71,
+        "name":"Malai Sweet",
+        "amt": 35,
+        "shop": "Mari Hotel",
+        "ftype": "Sweet",
+        "pic": "https://www.app.tutorjoes.in/img/food/71.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 58,
+        "name":"Jam Roll Cake",
+        "amt": 101,
+        "shop": "FB Cakes",
+        "ftype": "Cake",
+        "pic": "https://www.app.tutorjoes.in/img/food/58.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 113,
+        "name":"Curd Vadai",
+        "amt": 38,
+        "shop": "Namma Kadai",
+        "ftype": "Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/113.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 82,
+        "name":"Momo choco Pizza",
+        "amt": 319,
+        "shop": "Pizza Hut",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/82.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 64,
+        "name":"Classic Walnut Brownie ",
+        "amt": 147,
+        "shop": "Cake Zone",
+        "ftype": "Cake",
+        "pic": "https://www.app.tutorjoes.in/img/food/64.jpg",
+        "Latest": "No"
+    },
+    
+    {
+        "id": 12,
+        "name":"Veg Extravaganza Pizza",
+        "amt": 219,
+        "shop": "Cream & Fudge",
+        "ftype": "Pizza",
+        "pic": "https://www.app.tutorjoes.in/img/food/12.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 137,
+        "name":"Cream of Chicken Soup",
+        "amt": 219,
+        "shop": "Tandoori Wala",
+        "ftype": "Soup",
+        "pic": "https://www.app.tutorjoes.in/img/food/137.jpg",
+        "Latest": "No"
+    },
+    {
+        "id": 105,
+        "name":"Madurai Parotta",
+        "amt": 60,
+        "shop": "Tiffen Center",
+        "ftype": "Veg",
+        "pic": "https://www.app.tutorjoes.in/img/food/105.jpg",
+        "Latest": "No"
+    }
+    
+]
